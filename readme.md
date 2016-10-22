@@ -6,15 +6,12 @@
 
 *<strong>Note:</strong> In order to use this app a WhatsApp Web compatible device is required.*
 
-<br>
-[![](media/screenshot.png)](https://github.com/kundansingh1/whatsdeskApp/releases/latest)
 
 *Requires OS X 10.8+, Linux or Windows.*
 
 ## Dark mode
 
 Enable the dark mode in the settings or tray menu.
-[![](media/screenshot-dark.png)](https://github.com/kundansingh1/whatsdeskApp/releases/latest)
 
 ## Install
 
@@ -23,18 +20,17 @@ Enable the dark mode in the settings or tray menu.
 #### [Homebrew Cask](http://caskroom.io)
 
 ```
-$ brew cask install whatsdesktop
 ```
 
 #### Manually
 
-[**Download**](https://github.com/kundansingh1/whatsdeskApp/releases/latest), unzip, and move `WhatsDesktop.app` to the `/Applications` directory.
+[**Download**](https://github.com/kundansingh1/whatsdeskApp/releases/latest), unzip, and move `whatsdeskApp.app` to the `/Applications` directory.
 
 ### Linux
 
 [**Download**](https://github.com/kundansingh1/whatsdeskApp/releases/latest) and unzip to some location.
 
-To add a shortcut to the app, create a file in `~/.local/share/applications` called `whatsdesktop.desktop` with the following contents:
+To add a shortcut to the app, create a file in `~/.local/share/applications` called `whatsdeskApp.desktop` with the following contents:
 
 ```
 [Desktop Entry]
