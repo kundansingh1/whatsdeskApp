@@ -1,4 +1,4 @@
-# <img src="media/logo.png" width="45" align="left">&nbsp;WhatsDesktop
+# <img src="media/logo.png" width="45" align="left">&nbsp;whatsDeskApp
 
 > Unofficial WhatsApp app
 
@@ -45,7 +45,7 @@ Icon=/full/path/to/folder/WhatsDesktop/resources/app/media/logo-symbol.png
 
 [**Download**](https://github.com/kundansingh1/whatsdeskApp/releases/latest) and unzip to some location.
 
-Run WhatsDesktop.exe
+Run whatsdeskApp.exe
 
 ## Dev
 
